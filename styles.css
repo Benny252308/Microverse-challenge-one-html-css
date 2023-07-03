@@ -1,11 +1,36 @@
-#include<iostream>
+public class Main{
 
-using namespace std;
+public static void main(String[] args){
 
-int main()
+System.out.println("I Love You!");
 
-{
+}
 
-cout<<"I Love You!"<<endl;
+}
+public class Main{
+
+public static void main(String[] args){
+
+System.out.println("I Love You!");
+
+}
+
+}
+public class Main{
+
+public static void main(String[] args){
+
+System.out.println("I Love You!");
+
+}
+
+}
+public class Main{
+
+public static void main(String[] args){
+
+System.out.println("I Love You!");
+
+}
 
 }
